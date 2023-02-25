@@ -34,6 +34,6 @@ export const MovieItem = styled(Link)`
 
 export const MovieImg = styled.img`
   display: block;
-  max-width: ${theme.sizes[3]}px;
+  max-width: ${theme.sizes[4]}px;
   height: auto;
 `;

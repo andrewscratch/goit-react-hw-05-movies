@@ -6,7 +6,7 @@ export const theme = {
 
   colors: {
     prime: 'white',
-    second: 'orangered',
+    second: 'red',
     primeBg: 'rgb(240, 240, 240)',
     secondBg: 'rgb(230, 230, 230)',
     otherBg: 'rgb(210, 210, 210)',

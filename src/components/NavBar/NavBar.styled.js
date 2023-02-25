@@ -9,7 +9,7 @@ export const Header = styled.header`
   z-index: 1;
   display: flex;
   align-items: center;
-  padding: ${theme.space[2]}px;
+  padding: ${theme.space[3]}px;
   padding-left: ${theme.space[7]}px;
   gap: ${theme.space[7]}px;
   width: 100vw;
